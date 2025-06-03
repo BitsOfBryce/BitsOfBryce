@@ -20,6 +20,6 @@
     song: "Assumptions by Sam Gellaitry";
     hobbies: "Watching trash reality TV shows";
   };
-  learning: "Teaching myself AI/ML by creating and breaking a bunch of projects until something sticks";
+  currently learning: "Teaching myself AI/ML by creating and breaking a bunch of projects until something sticks";
 }
 
