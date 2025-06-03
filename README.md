@@ -6,4 +6,21 @@
 ██║░░██║███████╗███████╗███████╗╚█████╔╝██╗
 ╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝░╚════╝░╚═╝
 -------------------------------------------
-My name is Bryce Roberson and this is my Github page! I'm a student at NC A&T pursuing my B.S. in Business Information Technology. I’m passionate about cloud computing, cybersecurity, and building cool tech projects in my free time. Feel free to explore my repos or reach out to connect!
+# About Me
+
+```python
+about_me = {
+    "company": "PegaPod",
+    "role": "UAV Software Engineering Intern",
+    "location": "Cary, NC",
+    "school": "North Carolina A&T State University",
+    "major": "Business Information Technology",
+    "favorite": {
+        "movie": "Now You See Me",
+        "food": "Singapore Rice Noodles",
+        "song": "Assumptions by Sam Gellaitry",
+        "hobbies": 'Watching my favorite reality TV show "Love Island"'
+    },
+    "learning": "Teaching myself AI/ML by creating and breaking a bunch of projects until something sticks"
+}
+
