@@ -18,7 +18,7 @@ about_me = {
         "movie": "Now You See Me",
         "food": "Singapore Rice Noodles",
         "song": "Assumptions by Sam Gellaitry",
-        "hobbies": 'Watching my favorite reality TV show "Love Island"'
+        "hobbies": 'Watching trash reality TV shows'
     },
     "learning": "Teaching myself AI/ML by creating and breaking a bunch of projects until something sticks"
 }
