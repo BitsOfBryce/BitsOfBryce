@@ -13,7 +13,7 @@ about_me = {
     "location": "Cary, NC",
     "school": "North Carolina A&T State University",
     "major": "Business Information Technology",
-    "favorite": {
+    favorite: {
         "movie": "Now You See Me",
         "food": "Singapore Rice Noodles",
         "song": "Assumptions by Sam Gellaitry",
